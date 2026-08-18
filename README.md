@@ -1,4 +1,6 @@
 ## Hi there 👋
+Beleza maninho?
+<img <img width="554" height="554" alt="image" src="https://github.com/user-attachments/assets/fb57b8af-f263-496a-b09c-770489496912" />
 
 <!--
 **YagoT-T/YagoT-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
